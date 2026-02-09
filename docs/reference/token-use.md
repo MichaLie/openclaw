@@ -109,4 +109,7 @@ agents:
 - Keep skill descriptions short (skill list is injected into the prompt).
 - Prefer smaller models for verbose, exploratory work.
 
+For a comprehensive walkthrough with config examples, see
+[Reducing Token Usage](/reference/reducing-token-usage).
+
 See [Skills](/tools/skills) for the exact skill list overhead formula.

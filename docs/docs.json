@@ -1212,7 +1212,7 @@
               },
               {
                 "group": "Technical reference",
-                "pages": ["reference/wizard", "reference/token-use"]
+                "pages": ["reference/wizard", "reference/token-use", "reference/reducing-token-usage"]
               },
               {
                 "group": "Concept internals",
